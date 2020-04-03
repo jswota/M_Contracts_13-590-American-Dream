@@ -1,0 +1,17 @@
+{
+  "directories": [
+      {"id": 1, "name": "1_General", "path": "M:\\Contracts\\13-590 American Dream\\1_General"}, 
+      {"id": 2, "name": "13_Project_Management", "path": "M:\\Contracts\\13-590 American Dream\\13_Project_Management"}, 
+      {"id": 3, "name": "14_Production_Resource_Planning", "path": "M:\\Contracts\\13-590 American Dream\\14_Production_Resource_Planning"}, 
+      {"id": 4, "name": "15_Engineering", "path": "M:\\Contracts\\13-590 American Dream\\15_Engineering"}, 
+      {"id": 5, "name": "16_Detailing", "path": "M:\\Contracts\\13-590 American Dream\\16_Detailing"}, 
+      {"id": 6, "name": "17_Production_OE", "path": "M:\\Contracts\\13-590 American Dream\\17_Production_OE"}, 
+      {"id": 7, "name": "18_Procurement", "path": "M:\\Contracts\\13-590 American Dream\\18_Procurement"}, 
+      {"id": 8, "name": "20_Fabrication", "path": "M:\\Contracts\\13-590 American Dream\\20_Fabrication"}, 
+      {"id": 9, "name": "21_Coatings", "path": "M:\\Contracts\\13-590 American Dream\\21_Coatings"}, 
+      {"id": 10, "name": "25_Drawings_And_NC_Files", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files"}, 
+      {"id": 11, "name": "6_Safety", "path": "M:\\Contracts\\13-590 American Dream\\6_Safety"}, 
+      {"id": 12, "name": "7_Quality_Assurance", "path": "M:\\Contracts\\13-590 American Dream\\7_Quality_Assurance"}, 
+      {"id": 13, "name": "9_Marketing", "path": "M:\\Contracts\\13-590 American Dream\\9_Marketing"}
+  ]
+}
